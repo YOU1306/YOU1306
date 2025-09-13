@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YOU
+- 👋 Hi, I’m Rajat
 - 👀 I’m interested in HFT engineering
 - 🌱 I’m currently learning programming languages, Database , DevOops
 - 💞️ I’m looking to collaborate on HFT companies
